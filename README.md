@@ -1,6 +1,6 @@
 # Arduino
 
-Arduino Projects
+Arduino Projeleri
 
 www.erdiucar.com
 
